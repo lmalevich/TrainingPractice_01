@@ -6,7 +6,7 @@ namespace KES_Task_02
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите слово: ");
+            Console.WriteLine("Введите любое слово: ");
             string message = Console.ReadLine();
 
             while (!message.Contains("exit"))
