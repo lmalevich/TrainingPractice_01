@@ -1,0 +1,13 @@
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\bin\Debug\netcoreapp3.1\KES_Task_04.exe
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\bin\Debug\netcoreapp3.1\KES_Task_04.deps.json
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\bin\Debug\netcoreapp3.1\KES_Task_04.runtimeconfig.json
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\bin\Debug\netcoreapp3.1\KES_Task_04.runtimeconfig.dev.json
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\bin\Debug\netcoreapp3.1\KES_Task_04.dll
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\bin\Debug\netcoreapp3.1\KES_Task_04.pdb
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\obj\Debug\netcoreapp3.1\KES_Task_04.csprojAssemblyReference.cache
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\obj\Debug\netcoreapp3.1\KES_Task_04.AssemblyInfoInputs.cache
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\obj\Debug\netcoreapp3.1\KES_Task_04.AssemblyInfo.cs
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\obj\Debug\netcoreapp3.1\KES_Task_04.csproj.CoreCompileInputs.cache
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\obj\Debug\netcoreapp3.1\KES_Task_04.dll
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\obj\Debug\netcoreapp3.1\KES_Task_04.pdb
+C:\Users\Irina\Desktop\учеба\Лена\3 курс\Учебная практика\TrainingPractice_01\KES_Task_04\obj\Debug\netcoreapp3.1\KES_Task_04.genruntimeconfig.cache
