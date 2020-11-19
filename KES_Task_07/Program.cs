@@ -19,12 +19,24 @@ namespace KES_Task_07
 
         private static void Main(string[] args)
         {
-            var mass1 = new[] { 1, 22, 3, 4, 5, 9, 8, 24, 38, 1, 54, 63, 2 };
+            int size;
+            Console.Write("Введите размерность массива: ");
+            size = Convert.ToInt32(Console.ReadLine());
+
+            int[] mass1 = new int[size]; 
+            
+            Random rand = new Random();
+            for (int y = 0; y < size; y++)
+            {
+                mass1[y] = rand.Next(1, 21);
+            }
+
             int[] mass2 = mass1;
-            Console.WriteLine("Первый массив:");
+
+            Console.WriteLine("Изначальный массив:");
             Console.WriteLine(string.Join(" ", mass1));
             Shuffle(mass2);
-            Console.WriteLine("Второй массив:");
+            Console.WriteLine("Обработанный массив:");
             Console.WriteLine(string.Join(" ", mass2));
             Console.ReadKey();
         }
